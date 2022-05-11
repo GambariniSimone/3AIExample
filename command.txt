@@ -1,9 +1,7 @@
 dir 
 cd 
-git
 git push
 git clone 
-git stage
 git add
 git commit -m "descrizione"
 
